@@ -46,8 +46,8 @@ public class FindAnswer {
          String command = "Command+Z";
 
         //6-7) which two commands have saved more lives than Batman and Robin?
-         String firstLifeSaverCommand = "shift+";
-         String secondLifeSaverCommand = "Shift + P";
+         String firstLifeSaverCommand = "Command + C";
+         String secondLifeSaverCommand = "Command + P";
 
         //8) the only one even prime number
          int evenPrimeNumber = 2;
@@ -68,13 +68,13 @@ public class FindAnswer {
          char horrorCharacter = ';';
 
         //14) tourists visit what country the most?
-         String mostsVisitedCountry = "France";
+         String mostsVisitedCountry = "Paris";
 
         //15) how many countries don't use metric system?
          byte nonMetricCount = 3;
 
         //16) is United States use metric system?
-         boolean isUSMetric = true;
+         boolean isUSMetric = false;
 
         //17) the coldest temperature ever recorded in F?
          double coldestTemp = -128.6;
